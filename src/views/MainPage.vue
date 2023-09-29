@@ -34,12 +34,12 @@ const showBusinessDetails = (businessId) => {
 onMounted(async () => {
  
   businesses.value = [
-    { name: 'Smoothcup  Coffee', imageSrc: 'src/assets/img/Smoothcup Coffee.jpg' },
-    { name: 'Chill  Coffee', imageSrc: 'src/assets/img/Chill Coffee.jpg' },
-    { name: 'Yensabai  Coffee', imageSrc: 'src/assets/img/Yensabai Coffee.jpg' },
-    { name: 'Lamoon Coffee', imageSrc: 'src/assets/img/Lamoon Coffee.jpg' },
-    { name: 'Lucky  Coffee', imageSrc: 'src/assets/img/Lucky Coffee.jpg' },
-    { name: 'Goodmood  Coffee', imageSrc: 'src/assets/img/Goodmood Coffee.jpg' },
+    { name: 'Smoothcup  Coffee', imageSrc: 'src/assets/Smoothcup Coffee.jpg' },
+    { name: 'Chill  Coffee', imageSrc: 'src/assets/Chill Coffee.jpg' },
+    { name: 'Yensabai  Coffee', imageSrc: 'src/assets/Yensabai Coffee.jpg' },
+    { name: 'Lamoon Coffee', imageSrc: 'src/assets/Lamoon Coffee.jpg' },
+    { name: 'Lucky  Coffee', imageSrc: 'src/assets/Lucky Coffee.jpg' },
+    { name: 'Goodmood  Coffee', imageSrc: 'src/assets/Goodmood Coffee.jpg' },
   ];
   
 });

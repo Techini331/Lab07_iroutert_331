@@ -5,7 +5,7 @@
         <div id="wrapper_header" class="wrapper">
           <div class="logo">
             <div class="widget-header-logo widget-header-logo-3">
-              <img src="@/assets/img/logocoffee123.png" alt="Logo" width="100" height="150" class="me-2" /> 
+              <img src="@/assets/logocoffee123.png" alt="Logo" width="100" height="150" class="me-2" /> 
               <p class="text-center logo-text logo-bold">Club Cafe</p>
             </div>
           </div>
